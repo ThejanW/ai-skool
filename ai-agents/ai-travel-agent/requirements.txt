@@ -1,0 +1,9 @@
+streamlit 
+phidata
+openai
+google-search-results
+lxml_html_clean
+googlesearch-python
+pycountry
+google-generativeai
+ollama
