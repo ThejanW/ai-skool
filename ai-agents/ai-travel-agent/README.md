@@ -16,9 +16,6 @@ source venv/bin/activate  # For macOS/Linux
 # Install dependencies
 pip install -r requirements.txt
 
-# Add OpenAI API key to .env file
-echo "OPENAI_API_KEY=your_api_key_here" > .env
-
 # Launch app
 streamlit run agent.py
 ```
